@@ -52,7 +52,7 @@ Le projet a été réalisé en groupe en appliquant la **méthode agile SCRUM**.
   - SACHA Couture
 
 ### Outils de gestion de projet :
-- Notion (backlog, tâches en cours et terminées)
+- Notion (backlog, tâches en cours et terminées) (https://bit.ly/3ZhGrao)
 
 ---
 
@@ -68,11 +68,8 @@ Chaque membre du groupe a participé équitablement au projet :
 
 ## 7. Contenu du dépôt GitHub (git@github.com:leminhtu2000/WordPress-Blog-BTS-SIO-1.git)
 Le dépôt contient :
-- `/theme` : fichiers de personnalisation du thème
-- `/content` : export du contenu WordPress (XML)
-- `/screenshots` : captures d’écran du site
-- `/RGPD` : documentation liée à la protection des données
-- `/docs` : documentation du projet
+-  Documents
+-  WordPress eXtended RSS.xml
 - `README.md` : description du projet
 
 ---
