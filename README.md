@@ -1,7 +1,7 @@
 # Projet Blog – BTS SIO1 ESICAD
 
 ## 1. Présentation du projet
-Ce projet consiste à créer un **blog de promotion de la classe BTS SIO1 ESICAD** afin de renforcer sa présence en ligne.  
+Ce projet consiste à créer un **blog de promotion de la classe BTS SIO1 MyDigital School** afin de renforcer sa présence en ligne.  
 Le blog présente :
 - Une présentation générale de MyDigital School et de la classe BTS SIO1
 - Un trombinoscope des étudiants (photo, nom, prénom)
