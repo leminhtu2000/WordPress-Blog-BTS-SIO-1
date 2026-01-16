@@ -66,7 +66,7 @@ Chaque membre du groupe a participé équitablement au projet :
 
 ---
 
-## 7. Contenu du dépôt GitHub
+## 7. Contenu du dépôt GitHub (git@github.com:leminhtu2000/WordPress-Blog-BTS-SIO-1.git)
 Le dépôt contient :
 - `/theme` : fichiers de personnalisation du thème
 - `/content` : export du contenu WordPress (XML)
