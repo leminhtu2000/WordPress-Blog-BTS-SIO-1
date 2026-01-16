@@ -66,8 +66,8 @@ Chaque membre du groupe a participé équitablement au projet :
 
 ---
 
-## 7. Contenu du dépôt GitHub (https://bit.ly/4pKYKzL)
-Le dépôt contient :
+## 7. Contenu du dépôt GitHub
+Le dépôt contient (https://bit.ly/4pKYKzL) :
 -  Documents
 -  WordPress eXtended RSS.xml
 - `README.md` : description du projet
