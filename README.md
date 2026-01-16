@@ -66,7 +66,7 @@ Chaque membre du groupe a participé équitablement au projet :
 
 ---
 
-## 7. Contenu du dépôt GitHub (git@github.com:leminhtu2000/WordPress-Blog-BTS-SIO-1.git)
+## 7. Contenu du dépôt GitHub (https://bit.ly/4pKYKzL)
 Le dépôt contient :
 -  Documents
 -  WordPress eXtended RSS.xml
